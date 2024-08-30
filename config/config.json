@@ -1,0 +1,16 @@
+{
+    "debug" : false,
+    "OnlyTransferCustomItems" : false,
+    "Ignore" : [
+        "Add the IDs or the Nicknames of the traders you want to be ignored by this mod, leaving them untouched",
+        "moron",
+        "georgia",
+        "Scorpion",
+        "Scholar's Society",
+        "Lotus",
+        "",
+        "",
+        "",
+        ""
+    ]
+}
